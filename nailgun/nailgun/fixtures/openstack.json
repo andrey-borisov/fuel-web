@@ -648,7 +648,7 @@
                     "config": {
                         "parameters": {
                             "amqp": {
-                                "provider": "rabbitmq",
+                                "provider": "qpid",
                                 "username": null,
                                 "passwd": "",
                                 "hosts": "hostname1:5672, hostname2:5672"
